@@ -110,7 +110,7 @@ function prbhn(){if (opsLcheck == jumlahP - 1) {kecepatan=55;/*var prg = documen
 
 function tombol(){wallpaper.style="transform: scale(1);";Tombol.style="opacity:1;transform: scale(1);";fungsi=1}
 //document.getElementById("By").onclick = function() {if(fungsi==1){menuju();}}
-async function menuju(){window.location = "https://api.whatsapp.com/send?phone=&text=" + pesanwhatsapp;muncultombol3();}
+async function menuju(){window.location = "m.me/tnamtricklo205" + pesanwhatsapp;muncultombol3();}
 
 kecepatan = 45;
 function mulaiketik1(){
